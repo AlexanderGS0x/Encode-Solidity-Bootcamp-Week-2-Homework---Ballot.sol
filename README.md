@@ -1,4 +1,4 @@
-# Week 2 weekend homework - Ballot.sol + scripts
+# Week 2 Weekend Homework - Ballot.sol + scripts
 
 ## The Plan
 
